@@ -1,0 +1,6 @@
+/node_modules
+/dist
+/gen
+/android
+tsconfig.json
+yarn.lock
